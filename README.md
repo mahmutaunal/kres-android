@@ -207,3 +207,7 @@ The app requires the following permissions:
 - The application is developed using Kotlin language.
 - Get, post, put and delete commands in json type were used by using RetroFit library to perform connection operations to the database.
 - Glide library is used to display the photos.
+
+## License
+
+This application is released under MIT license (see [LICENSE](LICENSE)).
