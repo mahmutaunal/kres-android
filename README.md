@@ -190,6 +190,14 @@ width="200"
 
 It allows parents to communicate and message with the teacher, bus driver and principal.
 
+## About (Under Development)
+
+Displaying information about the nursery.
+
+[<img src="/readme/screenshots/about.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/readme/screenshots/about.png)
+
 ## Features
 
 The android app lets you:
